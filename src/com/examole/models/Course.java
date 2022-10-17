@@ -9,5 +9,4 @@ public class Course {
         Lecture lecture1 = new Lecture();
     }
 
-
 }
