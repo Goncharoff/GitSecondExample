@@ -6,5 +6,8 @@ public class Course {
 
     public void setConflict() {
         Lecture lecture = new Lecture();
+        Lecture lecture1 = new Lecture();
     }
+
+
 }
